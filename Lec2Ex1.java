@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Lec2Ex1 {
-    public static void main(String args[]){
+    public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
         System.out.print("정수1을 입력하세요 :");
         int num1 = scan.nextInt();

@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class EvenOdd {
-    public static void main(String args[]){
+    public static void main(String[] args){
         System.out.print("정수를 입력하세요 :");
         Scanner scan = new Scanner(System.in);
         int num = scan.nextInt();
